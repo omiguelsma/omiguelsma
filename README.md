@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Martins</h1>
-<h3 align="center">Tech, Data & AI</h3>
+<h3 align="center">Simplex & Efficax | Tech, Data & AI</h3>
 
 - 📫 How to reach me **omiguelsma@gmail.com**
 
